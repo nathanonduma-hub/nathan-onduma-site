@@ -1,0 +1,43 @@
+.hero {
+  padding: 2.5rem 2rem;
+  border-radius: 1.25rem;
+  background: #f7f9fb;
+  margin-bottom: 2rem;
+}
+
+.hero h2 {
+  margin-top: 0;
+  font-size: 2rem;
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .6rem;
+  margin-top: 1rem;
+}
+
+.cardbox,
+.project-card {
+  border: 1px solid #e6e8eb;
+  border-radius: 1rem;
+  padding: 1.1rem;
+  margin-bottom: 1rem;
+  background: #ffffff;
+}
+
+.project-card h3,
+.cardbox h3 {
+  margin-top: 0;
+}
+
+.download-note {
+  border-left: 4px solid #2c7fb8;
+  background: #f3f8fc;
+  padding: .8rem 1rem;
+  margin-bottom: 1rem;
+}
+
+.navbar-brand {
+  font-weight: 700;
+}

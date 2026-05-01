@@ -1,0 +1,61 @@
+---
+title: "Nathan Machuki Onduma"
+subtitle: "Senior MEL and Data Science Leader"
+listing: false
+---
+
+::: {.hero}
+
+## Data, evidence, and learning for stronger health systems
+
+I work at the intersection of measurement, evaluation, data science, and global health. My focus is on building practical evidence systems that help governments, donors, and implementing partners make better decisions across complex health and development programs.
+
+::: {.hero-actions}
+[View CV](cv.qmd){.btn .btn-primary}
+[Explore projects](projects.qmd){.btn .btn-secondary}
+[RPubs portfolio](https://rpubs.com/Onduma){.btn .btn-outline-secondary}
+:::
+
+:::
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-4 .cardbox}
+### MEL leadership
+Multi-country MEL systems, indicator frameworks, partner performance tracking, and donor reporting.
+:::
+
+::: {.g-col-12 .g-col-md-4 .cardbox}
+### Data science
+Statistical analyses, R, tidyverse, Power BI, survey analysis, modelling, and data visualization.
+:::
+
+::: {.g-col-12 .g-col-md-4 .cardbox}
+### Global health systems
+NTDs, HIV, RMNCAH, DHIS2, EMR systems, Kobo Toolbox, digital transformation, and evidence use.
+:::
+:::
+
+## Featured work
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6 .project-card}
+### Neglected tropical diseases and MEL systems
+Current work focuses on MEL strategy, analytics, and evidence generation for neglected tropical disease programs, including visceral leishmaniasis and trachoma.
+
+[Read the CV](cv.qmd#professional-experience)
+:::
+
+::: {.g-col-12 .g-col-md-6 .project-card}
+### Statistical and data science notes
+RPubs hosts earlier technical notes on mixed effects models, experimental design, survey analysis, statistical inference, and tidymodels.More will be uploaded with time.
+
+[View projects](projects.qmd)
+:::
+:::
+
+## Selected public links
+
+- [LinkedIn](https://www.linkedin.com/in/nathan-onduma-7a80a0107/)
+- [RPubs profile](https://rpubs.com/Onduma)
+- [PubMed publication on visceral leishmaniasis sustainability](https://pubmed.ncbi.nlm.nih.gov/39864498/)
+- [Frontiers article on African leadership in ending NTDs](https://www.frontiersin.org/journals/tropical-diseases/articles/10.3389/fitd.2023.1116831/full)

@@ -1,0 +1,15 @@
+---
+title: "Writing and Publications"
+---
+
+## Publications
+
+- Duncan Ochol, Kebron Haile, **Nathan Onduma**, Tsegaye Yohanes, & Kimberly Kamara (2025). *Elimination of visceral leishmaniasis in Ethiopia: cross-sector collaboration and cost sharing to promote sustainability.* [PubMed](https://pubmed.ncbi.nlm.nih.gov/39864498/)
+- Makau-Barasa, L. K., **Onduma, N.**, Yotebieng, K., & Karutu, C. (2023). *African institutions will lead on the road to end neglected tropical diseases.* [Frontiers](https://www.frontiersin.org/journals/tropical-diseases/articles/10.3389/fitd.2023.1116831/full)
+- **Onduma, N. M.** (2014). *Mixture regression-cum-ratio estimators using multi-auxiliary variables and attributes in two-phase sampling.* MSc project, Kenyatta University.
+
+## Technical notes
+
+This is work in progress.
+
+Earlier technical notes are currently hosted on [RPubs](https://rpubs.com/Onduma). Over time, strongest pieces will be migrated into this site as Quarto articles for better search visibility and consistent presentation.

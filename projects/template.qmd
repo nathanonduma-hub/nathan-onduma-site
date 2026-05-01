@@ -1,0 +1,23 @@
+---
+title: "Project title"
+description: "Brief description for search engines and previews."
+categories: [R, MEL, Global Health]
+---
+
+## Problem
+
+Describe the practical question, decision, or gap.
+
+## Data and methods
+
+Describe the data sources, tools, and analytical approach.
+
+## Results
+
+Summarize the main findings, outputs, or decisions supported.
+
+## Reproducibility
+
+- Code:
+- RPubs:
+- Report or dashboard:

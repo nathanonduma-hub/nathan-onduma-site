@@ -1,0 +1,254 @@
+---
+title: ""
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+<!-- ::: download-note -->
+<!-- For PDF or Word output, render this page using `quarto render cv.qmd --to pdf` or `quarto render cv.qmd --to docx`. -->
+<!-- ::: -->
+
+---
+format:
+  html:
+    toc: false
+    theme: cosmo
+  pdf:
+    toc: false
+    documentclass: article
+    geometry:
+      - margin=0.75in
+  docx:
+    toc: false
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+```{=html}
+<style>
+.download-buttons {
+  text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.download-buttons .btn {
+  display: inline-block;
+  padding: 0.4rem 0.7rem;
+  margin: 0.2rem;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.85rem;
+}
+
+h1 {
+  margin-bottom: 0.2rem;
+}
+
+h2 {
+  margin-top: 1.2rem;
+}
+
+p {
+  margin-bottom: 0.5rem;
+}
+
+h2 + p {
+  margin-top: 0.3rem;
+}
+
+</style>
+```
+
+```{r setup}
+library(tidyverse)
+library(glue)
+```
+
+# Nathan Machuki Onduma
+
+**Senior MEL and Data Science Leader**\
+Nairobi, Kenya \| +254 728 352 614 \| nonduma\@yahoo.com\
+LinkedIn: [linkedin.com/in/nathan-onduma-7a80a0107](https://www.linkedin.com/in/nathan-onduma-7a80a0107/)
+
+:::: {.content-visible when-format="html"}
+::: download-buttons
+[Download PDF](nathan_onduma_cv.pdf){.btn .btn-primary target="_blank"} [Download Word](nathan_onduma_cv.docx){.btn .btn-secondary target="_blank"}
+:::
+::::
+
+<hr>
+
+## Professional Summary
+
+Senior Measurement, Evaluation, and Learning (MEL) and Data Science leader with 15+ years of experience across global health, public sector, and development programs in Africa. Proven track record in leading multi-country MEL systems, advancing data-driven strategy, and strengthening health information systems. Expertise in statistical analysis, program evaluation, and translating complex data into actionable insights for donors, governments, and implementing partners. Experienced in managing large-scale programs, building high-performing teams, and supporting investment cases and strategic decision-making.
+
+<hr>
+
+## Core Competencies
+
+-   Measurement, Evaluation, and Learning (MEL)
+-   Statistical Analysis and Data Science: R, tidyverse, Power BI
+-   Health Information Systems: DHIS2, EMR, Kobo Toolbox
+-   Program Design and Evaluation Frameworks
+-   Data Strategy and Decision Support
+-   Capacity Building and Stakeholder Engagement
+-   Donor Reporting: USAID, CDC, World Bank, Foundations, Funds
+-   Research and Scientific Communication
+
+## Professional Experience
+
+### [The END Fund](https://endfund.org/)
+
+**Senior Associate Director, Measurement, Evaluation, and Learning**\
+*March 2025 – Present \| Remote, Kenya*
+
+-  Lead MEL strategy and implementation for visceral leishmaniasis and trachoma within multi‑country NTD programs spanning 30+ countries, supporting over $50M disbursed and 150M individuals reached annually
+-   Oversee development of MEL frameworks, indicators, and data systems to support program performance and impact measurement.
+-   Provide technical leadership in survey design, data analytics, and digital transformation initiatives.
+-   Support organizational strategy through advanced data analysis and evidence generation for donor and board reporting.
+
+### [The END Fund](https://endfund.org/)
+
+**Associate Director, Measurement, Evaluation, and Learning**\
+*October 2022 – February 2025 \| Remote, Kenya*
+
+-   Managed MEL systems and analytics across multiple country programs, improving data use for programmatic decision-making.
+-   Led digitization initiatives across Nigeria and DRC, enhancing data collection and reporting for five PC NTD programs.
+-   Supported integration of visceral leishmaniasis indicators into national HMIS platforms.
+-   Contributed to major investment cases and strategic documents that informed fundraising and program prioritization.
+-   Strengthened partner accountability through structured performance tracking and data review processes.
+
+**Selected Achievements**
+
+-   Advanced multi-country data systems, including indicator frameworks, data tools, shapefiles, and training resources.
+-   Delivered high-impact analytics supporting localization strategy and cross-departmental decision-making.
+-   Contributed to development of organizational Theory of Change aligned with strategic priorities.
+
+### Independent Consultant
+
+**Statistician / MEL Specialist**\
+*October 2020 – October 2022*
+
+-   Delivered statistical and MEL consulting services for global health and development programs funded by USAID, World Bank, and other partners.
+-   Designed and implemented data analysis frameworks and evaluation methodologies.
+-   Translated complex analytical outputs into clear, actionable insights for technical and non-technical stakeholders.
+-   Provided advisory support on monitoring, measurement, evaluation, research, and learning for public, private, and non-profit organizations.
+-   Provided technical leadership on planning and conducting a [Harmonized Health Facility Assessment (HHFA)](https://www.who.int/data/data-collection-tools/harmonized-health-facility-assessment/introduction) and third party monitoring
+
+### [University of Maryland Global Initiatives Corporation](https://www.umaryland.edu/mgic/)
+
+**Strategic Information Advisor**\
+*February 2017 – October 2020 \| Kenya, PACT Timiza Program*
+
+-   Led MEL strategy and implementation for a USG PEPFAR/CDC-funded HIV program.
+-   Directed data systems including DATIM, DHIS2, and EMR platforms to ensure accurate and timely reporting.
+-   Managed a multidisciplinary team of MEL and data professionals.
+-   Provided technical assistance to county health systems to strengthen data collection, analysis, and reporting.
+-   Led baseline assessments, data quality assessments, routine reporting, and stakeholder review meetings.
+
+**Selected Achievements**
+
+-   Increased EMR system coverage from below 20% to over 70%.
+-   Designed and implemented a comprehensive Evaluation and Performance Monitoring Plan.
+-   Secured continued donor funding through high-quality reporting and performance tracking.
+-   Supervised 2 data managers, 7 M&E officers, and 1 HMIS specialist.
+
+### [KMET](https://kmet.co.ke/)
+
+**Monitoring and Evaluation Officer**\
+*April 2016 – January 2017 \| Kisumu, Kenya*
+
+-   Managed M&E systems for donor-funded health programs.
+-   Developed indicators, data collection tools, reporting matrices, and institutional data systems.
+-   Led training and capacity building for program staff, service delivery staff, and partners.
+-   Supported proposal development, grant reporting, data quality audits, and research dissemination.
+
+**Selected Achievements**
+
+-   Improved DHIS2 reporting quality and coverage from 55% to 94% within five months.
+-   Recognized as top-performing partner in reporting quality and timeliness across 8 implementing partners.
+-   Supervised 2 M&E assistants directly and 30 data clerks indirectly.
+
+### [Ministry of Planning, National Development and Vision 2030](www.planning.go.ke)
+
+**Statistician**\
+*September 2010 – April 2016 \| Kenya*
+
+-   Led county-level statistical analysis, planning, monitoring, and reporting functions.
+-   Developed program monitoring tools, performance indicators, and policy inputs.
+-   Coordinated development, review, monitoring, and evaluation of District Development Plans and County Integrated Development Plans.
+-   Supported budgeting, strategic planning, feasibility studies, and sector statistics dissemination.
+
+**Selected Achievements**
+
+-   Produced [Nyamira County’s first Statistical Abstract](https://www.knbs.or.ke/wp-content/uploads/2023/09/2015-County-Statistical-Abstracts-Nyamira.pdf) in collaboration with the Kenya National Bureau of Statistics.
+-   Led development of County Integrated Development Plans \[[first](https://repository.kippra.or.ke/items/36e86a82-d4b1-4325-b80f-d3cff03c3ced)\] and budget policy documents \[[this](https://repository.kippra.or.ke/server/api/core/bitstreams/4e915356-8167-41f3-9dad-0546f84c9297/content), [this](https://www.nyamira.go.ke/static/documents/11_03_2025_11_23_16_am_COUNTY_BUDGET_REVIEW_OUTLOOK_PAPER_2015_(1).pdf), [this](https://www.nyamira.go.ke/static/documents/CountyBudgetReview.pdf)\] and strategic frameworks and reports \[[this](https://www.nyamira.go.ke/static/documents/12_03_2025_10_17_11_am_NYAMIRA_SECTOR_REPORTS_2019_1.pdf)\].
+-   Developed Nyamira County M&E indicators in partnership with UNDP and UN-Women.
+-   Established the Borabu District Information and Documentation Centre.
+
+<hr>
+
+## Education
+
+-   [**Master of Science in Statistics**,](https://ir-library.ku.ac.ke/handle/123456789/13937) Kenyatta University, Kenya — 2014
+-   [**Bachelor of Science in Statistics**](http://erepository.uonbi.ac.ke/handle/11295/7810)**, Second Class Upper**, University of Nairobi, Kenya — 2009
+-   **Kenya Certificate of Secondary Education**, **A Plain**, Nyamagwa Boys’ High School, Kenya — 2003
+
+<hr>
+
+## Technical Skills
+
+-   **Programming & Analysis:** R tidyverse ecosystem, Excel/Google Sheets, Power BI
+-   **Health Systems:** DHIS2, EMR systems, Kobo Toolbox
+-   **Enterprise Systems:** Salesforce
+-   **Research & Reporting:** Survey design, statistical modelling, data visualization, LaTeX
+
+<hr>
+
+## Selected Professional Development
+
+-   **Time Series Forecasting** — [Prof. Bahman Rostami-Tabar](https://profiles.cardiff.ac.uk/staff/rostami-tabarb), Nairobi, Kenya, 2023
+-   **Demographic and Health Surveys (DHS) Program online courses**, 2022
+-   **Leadership and Management in Health** — University of Washington, 2020
+-   **Introduction to Epidemiology for Global Health** — University of Washington, 2018
+-   **Monitoring and Evaluation fundamentals, frameworks, data management, and analysis** — CDC Kenya, Ministry of Health, Global Health Learning Center, and related partners
+-   **Spatial Statistics** — [Prof. Thomas Achia](https://dellmed.utexas.edu/directory/thomas-achia), CDC Kenya, 2017
+
+<hr>
+
+## Selected Publications
+
+-   Duncan Ochol, Kebron Haile, **Nathan Onduma**, Tsegaye Yohanes, & Kimberly Kamara (2025). *Elimination of visceral leishmaniasis in Ethiopia: cross-sector collaboration and cost sharing to promote sustainability.* [PubMed](https://pubmed.ncbi.nlm.nih.gov/39864498/?utm_source=copilot.com "pubmed.ncbi.nlm.nih.gov")
+-   Makau-Barasa, L. K., **Onduma, N.**, Yotebieng, K., & Karutu, C. (2023). *African institutions will lead on the road to end neglected tropical diseases.* [Frontiers](https://www.frontiersin.org/journals/tropical-diseases/articles/10.3389/fitd.2023.1116831/full)
+-   **Onduma, N. M.** (2019–2022). *RPubs publications and technical notes on statistical and data science methodologies.* [RPubs](https://rpubs.com/Onduma).
+-   **Onduma, N. M.** (2014). *Mixture regression-cum-ratio estimators using multi-auxiliary variables and attributes in two-phase sampling.* MSc project, Kenyatta University.
+-   Mshambala, A. W., **Onduma, N. M.**, & Ng’ang’a, J. G. (2009). *Online presence of internet consumers in Nairobi’s Central Business District.* Undergraduate project, University of Nairobi.
+
+<hr>
+
+## Languages
+
+-   English — Full professional proficiency
+-   Kiswahili — Full professional proficiency
+-   French — Basic proficiency
+
+<hr>
+
+## Selected Awards
+
+-   **2019:** Recognized by University of Maryland Kenya Country Director as *"First Among Equals"* for leadership of the Strategic Information Department.
+-   **2007:** Best 2nd Year Student, School of Mathematics, University of Nairobi.
+-   **2006:** Best 1st Year Student, Statistics Section, University of Nairobi.
+-   **2003:** Second-best KCSE student in Gucha District, Kenya.
+
+<hr>
+
+## Referees
+
+Available upon request.

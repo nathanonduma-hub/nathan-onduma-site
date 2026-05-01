@@ -1,0 +1,78 @@
+---
+title: "Projects and Technical Portfolio"
+description: "Selected analytical work, RPubs publications, and future case-study space."
+---
+
+This page turns the existing RPubs presence into a clearer portfolio. RPubs are kept as the archive while this site is used as the curated front door.
+
+## RPubs portfolio
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6 .project-card}
+### Hierarchical and Mixed Effects Models in R
+Technical note on multilevel and mixed effects modelling in R.
+
+[View on RPubs](https://rpubs.com/Onduma/mixedeffects)
+:::
+
+::: {.g-col-12 .g-col-md-6 .project-card}
+### Experimental Design in R
+Applied notes on experimental design workflows in R.
+
+[View on RPubs](https://rpubs.com/Onduma/experimental_design)
+:::
+
+::: {.g-col-12 .g-col-md-6 .project-card}
+### Analyzing Survey Data in R
+Applied survey data analysis notes and examples.
+
+[View on RPubs](https://rpubs.com/Onduma/surveydata)
+:::
+
+::: {.g-col-12 .g-col-md-6 .project-card}
+### Foundations of Inference
+Personal notes from statistical inference learning material.
+
+[View on RPubs](https://rpubs.com/Onduma/stat_inference)
+:::
+
+::: {.g-col-12 .g-col-md-6 .project-card}
+### Modeling with tidymodels
+Machine learning and modelling workflows using the tidymodels ecosystem.
+
+[View on RPubs](https://rpubs.com/Onduma/tidymodels)
+:::
+:::
+
+## Recommended next project pages
+
+This is work in progress
+
+I will create one page per strong case study under `projects/`, using the following structure:
+
+```markdown
+---
+title: "Project title"
+description: "One-line summary"
+---
+
+## Problem
+What decision or program question did this work address?
+
+## Data and methods
+What data, tools, and analytical methods were used?
+
+## Results
+What changed or what was learned?
+
+## Reproducibility
+Link to code, RPubs, GitHub, dashboard, or report.
+```
+
+Good first candidates will include:
+
+1. NTD MEL systems and indicator frameworks
+2. Visceral leishmaniasis analytics and sustainability evidence
+3. Survey data analysis in R
+4. Mixed effects models for program or health data
+5. DHIS2 / EMR data quality improvement case study

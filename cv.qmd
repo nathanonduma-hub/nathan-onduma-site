@@ -73,7 +73,7 @@ library(glue)
 # Nathan Machuki Onduma
 
 **Senior MEL and Data Science Leader**\
-Nairobi, Kenya \| +254 728 352 614 \| nonduma\@yahoo.com\
+Kisii, Kenya \| +254 728 352 614 \| nonduma\@yahoo.com\
 LinkedIn: [linkedin.com/in/nathan-onduma-7a80a0107](https://www.linkedin.com/in/nathan-onduma-7a80a0107/)
 
 :::: {.content-visible when-format="html"}
@@ -118,11 +118,12 @@ Senior Measurement, Evaluation, and Learning (MEL) and Data Science leader with 
 **Associate Director, Measurement, Evaluation, and Learning**\
 *October 2022 – February 2025 \| Remote, Kenya*
 
--   Managed MEL systems and analytics across multiple country programs, improving data use for programmatic decision-making.
+-   Designed and implemented MEL systems across 50+ low‑resource countries with limited M&E capacity, strengthening data use for programmatic decision‑making.
 -   Led digitization initiatives across Nigeria and DRC, enhancing data collection and reporting for five PC NTD programs.
 -   Supported integration of visceral leishmaniasis indicators into national HMIS platforms.
 -   Contributed to major investment cases and strategic documents that informed fundraising and program prioritization.
--   Strengthened partner accountability through structured performance tracking and data review processes.
+-   Strengthened partner accountability via performance tracking and data reviews, aligning country MEL systems with global MEL frameworks and donor reporting standards.
+-   Developed and managed quick‑use data tools, including Google Sheets and Excel dashboards, to support program teams.
 
 **Selected Achievements**
 

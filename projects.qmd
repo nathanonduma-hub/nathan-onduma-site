@@ -1,5 +1,5 @@
 ---
-title: "Projects and Technical Portfolio"
+title: "Projects and Technical Portfolio - [Transfering this documentation to github is work in progress]"
 description: "Selected analytical work, RPubs publications, and future case-study space."
 ---
 

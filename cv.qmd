@@ -2,17 +2,6 @@
 title: ""
 format:
   html:
-    toc: true
-    toc-depth: 2
----
-
-<!-- ::: download-note -->
-<!-- For PDF or Word output, render this page using `quarto render cv.qmd --to pdf` or `quarto render cv.qmd --to docx`. -->
-<!-- ::: -->
-
----
-format:
-  html:
     toc: false
     theme: cosmo
   pdf:
@@ -27,6 +16,7 @@ execute:
   warning: false
   message: false
 ---
+
 
 ```{=html}
 <style>
@@ -76,6 +66,10 @@ library(glue)
 Kisii, Kenya \| +254 728 352 614 \| nonduma\@yahoo.com\
 LinkedIn: [linkedin.com/in/nathan-onduma-7a80a0107](https://www.linkedin.com/in/nathan-onduma-7a80a0107/)
 
+::: {.content-visible unless-format="html"}
+Online version: [View my live CV and portfolio](https://nathanonduma-hub.github.io/nathan-onduma-site/cv.html)
+:::
+
 :::: {.content-visible when-format="html"}
 ::: download-buttons
 [Download PDF](nathan_onduma_cv.pdf){.btn .btn-primary target="_blank"} [Download Word](nathan_onduma_cv.docx){.btn .btn-secondary target="_blank"}
@@ -96,7 +90,7 @@ Senior Measurement, Evaluation, and Learning (MEL) and Data Science leader with 
 -   Statistical Analysis and Data Science: R, tidyverse, Power BI
 -   Health Information Systems: DHIS2, EMR, Kobo Toolbox
 -   Program Design and Evaluation Frameworks
--   Data Strategy and Decision Support
+-   Data Strategy, Decision Support, Performance, and Organizational Learning
 -   Capacity Building and Stakeholder Engagement
 -   Donor Reporting: USAID, CDC, World Bank, Foundations, Funds
 -   Research and Scientific Communication
@@ -108,7 +102,7 @@ Senior Measurement, Evaluation, and Learning (MEL) and Data Science leader with 
 **Senior Associate Director, Measurement, Evaluation, and Learning**\
 *March 2025 – Present \| Remote, Kenya*
 
--  Lead MEL strategy and implementation for visceral leishmaniasis and trachoma within multi‑country NTD programs spanning 30+ countries, supporting over $50M disbursed and 150M individuals reached annually
+-   Lead MEL strategy and implementation for visceral leishmaniasis and trachoma within multi‑country NTD programs spanning 30+ countries, supporting over \$50M disbursed and 150M individuals reached annually
 -   Oversee development of MEL frameworks, indicators, and data systems to support program performance and impact measurement.
 -   Provide technical leadership in survey design, data analytics, and digital transformation initiatives.
 -   Support organizational strategy through advanced data analysis and evidence generation for donor and board reporting.
@@ -130,6 +124,7 @@ Senior Measurement, Evaluation, and Learning (MEL) and Data Science leader with 
 -   Advanced multi-country data systems, including indicator frameworks, data tools, shapefiles, and training resources.
 -   Delivered high-impact analytics supporting localization strategy and cross-departmental decision-making.
 -   Contributed to development of organizational Theory of Change aligned with strategic priorities.
+-   Led segments of the program database development process in collaboration with [BAO systems](https://baosystems.com/), the technical contractor.
 
 ### Independent Consultant
 
@@ -156,6 +151,8 @@ Senior Measurement, Evaluation, and Learning (MEL) and Data Science leader with 
 **Selected Achievements**
 
 -   Increased EMR system coverage from below 20% to over 70%.
+-   Owned the development and deployment of the DHIS2-based Data Reporting and Warehousing System (DRAWS) with [BAO systems](https://baosystems.com/), the technical contractor.
+-   Part of the technical working group for the development and deployment of CDC Kenya’s Partner Platform for Performance Monitoring (3PM).
 -   Designed and implemented a comprehensive Evaluation and Performance Monitoring Plan.
 -   Secured continued donor funding through high-quality reporting and performance tracking.
 -   Supervised 2 data managers, 7 M&E officers, and 1 HMIS specialist.

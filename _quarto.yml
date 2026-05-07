@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - files/**
+
   render:
     - "*.qmd"
     - "!projects/template.qmd"
@@ -28,7 +31,7 @@ website:
       - text: "RPubs"
         href: https://rpubs.com/Onduma
   page-footer:
-    left: "© Nathan Onduma"
+    left: "© Nathan Onduma - work in progress"
     right: "Built with Quarto"
 
 format:

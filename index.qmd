@@ -47,7 +47,7 @@ Current work focuses on MEL strategy, analytics, and evidence generation for neg
 
 ::: {.g-col-12 .g-col-md-6 .project-card}
 ### Statistical and data science notes
-RPubs hosts earlier technical notes on mixed effects models, experimental design, survey analysis, statistical inference, and tidymodels.More will be uploaded with time.
+RPubs hosts some of the earlier technical notes on mixed effects models, experimental design, survey analysis, statistical inference, and tidymodels. More will be uploaded on a rolling basis.
 
 [View projects](projects.qmd)
 :::

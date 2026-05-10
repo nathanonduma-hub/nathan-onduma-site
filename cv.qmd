@@ -102,7 +102,7 @@ Senior Measurement, Evaluation, and Learning (MEL) and Data Science leader with 
 **Senior Associate Director, Measurement, Evaluation, and Learning**\
 *March 2025 – Present \| Remote, Kenya*
 
--   Lead MEL strategy and implementation for visceral leishmaniasis and trachoma within multi‑country NTD programs spanning 30+ countries, supporting over \$50M disbursed and 150M individuals reached annually
+-   Lead MEL strategy and implementation for visceral leishmaniasis and trachoma within multi‑country NTD programs spanning 30+ countries, supporting over \$50M disbursed and over 150M individuals reached annually
 -   Oversee development of MEL frameworks, indicators, and data systems to support program performance and impact measurement.
 -   Provide technical leadership in survey design, data analytics, and digital transformation initiatives.
 -   Support organizational strategy through advanced data analysis and evidence generation for donor and board reporting.
@@ -126,12 +126,12 @@ Senior Measurement, Evaluation, and Learning (MEL) and Data Science leader with 
 -   Contributed to development of organizational Theory of Change aligned with strategic priorities.
 -   Led segments of the program database development process in collaboration with [BAO systems](https://baosystems.com/), the technical contractor.
 
-### Independent Consultant
+### [Independent Consultant](https://www.linkedin.com/in/nathan-onduma-7a80a0107/)
 
 **Statistician / MEL Specialist**\
 *October 2020 – October 2022*
 
--   Delivered statistical and MEL consulting services for global health and development programs funded by USAID, World Bank, and other partners.
+-   Delivered statistical and MEL consulting services for global health and development programs funded by USAID, World Bank, and other donors and partners.
 -   Designed and implemented data analysis frameworks and evaluation methodologies.
 -   Translated complex analytical outputs into clear, actionable insights for technical and non-technical stakeholders.
 -   Provided advisory support on monitoring, measurement, evaluation, research, and learning for public, private, and non-profit organizations.
@@ -162,7 +162,7 @@ Senior Measurement, Evaluation, and Learning (MEL) and Data Science leader with 
 **Monitoring and Evaluation Officer**\
 *April 2016 – January 2017 \| Kisumu, Kenya*
 
--   Managed M&E systems for donor-funded health programs.
+-   Developed and managed monitoring and evaluation systems for donor-funded RMNCAH (Reproductive, Maternal, Newborn, Child, and Adolescent Health) programs.
 -   Developed indicators, data collection tools, reporting matrices, and institutional data systems.
 -   Led training and capacity building for program staff, service delivery staff, and partners.
 -   Supported proposal development, grant reporting, data quality audits, and research dissemination.
@@ -185,10 +185,10 @@ Senior Measurement, Evaluation, and Learning (MEL) and Data Science leader with 
 
 **Selected Achievements**
 
--   Produced [Nyamira County’s first Statistical Abstract](https://www.knbs.or.ke/wp-content/uploads/2023/09/2015-County-Statistical-Abstracts-Nyamira.pdf) in collaboration with the Kenya National Bureau of Statistics.
--   Led development of County Integrated Development Plans \[[first](https://repository.kippra.or.ke/items/36e86a82-d4b1-4325-b80f-d3cff03c3ced)\] and budget policy documents \[[this](https://repository.kippra.or.ke/server/api/core/bitstreams/4e915356-8167-41f3-9dad-0546f84c9297/content), [this](https://www.nyamira.go.ke/static/documents/11_03_2025_11_23_16_am_COUNTY_BUDGET_REVIEW_OUTLOOK_PAPER_2015_(1).pdf), [this](https://www.nyamira.go.ke/static/documents/CountyBudgetReview.pdf)\] and strategic frameworks and reports \[[this](https://www.nyamira.go.ke/static/documents/12_03_2025_10_17_11_am_NYAMIRA_SECTOR_REPORTS_2019_1.pdf)\].
--   Developed Nyamira County M&E indicators in partnership with UNDP and UN-Women.
--   Established the Borabu District Information and Documentation Centre.
+-   Led the production of [Nyamira County’s inaugural Statistical Abstract](https://www.knbs.or.ke/wp-content/uploads/2023/09/2015-County-Statistical-Abstracts-Nyamira.pdf) in collaboration with the Kenya National Bureau of Statistics providing a foundation for evidence-based economic planning.
+-   Led the development of [the inaugural County Integrated Development Plan](https://repository.kippra.or.ke/items/36e86a82-d4b1-4325-b80f-d3cff03c3ced), multi-year ([2013/2014](https://www.nyamira.go.ke/static/documents/CountyBudgetReview.pdf) to [2015/2016](https://www.nyamira.go.ke/static/documents/11_03_2025_11_23_16_am_COUNTY_BUDGET_REVIEW_OUTLOOK_PAPER_2015_(1).pdf)) budget policy documents, and strategic frameworks, plans and [reports](https://www.nyamira.go.ke/templates/document_list?id=2), ensuring alignment with county and national priorities.
+-   Developed Nyamira County M&E indicators in partnership with UNDP and UN-Women to support tracking of the key performance indicators.
+-   Founded the Borabu District Information and Documentation Centre, improving transparency and accessibility of government development plans and strategies for civil servants and citizens.
 
 <hr>
 
@@ -240,10 +240,10 @@ Senior Measurement, Evaluation, and Learning (MEL) and Data Science leader with 
 
 ## Selected Awards
 
--   **2019:** Recognized by University of Maryland Kenya Country Director as *"First Among Equals"* for leadership of the Strategic Information Department.
--   **2007:** Best 2nd Year Student, School of Mathematics, University of Nairobi.
--   **2006:** Best 1st Year Student, Statistics Section, University of Nairobi.
--   **2003:** Second-best KCSE student in Gucha District, Kenya.
+-   **2019:** Recognized by the University of Maryland Kenya Country Director as *"First Among Equals"* for leadership of the Strategic Information Department.
+-   **2007:** Awarded university fees waiver after being recognized as the Best Second-Year Student, School of Mathematics, University of Nairobi.
+-   **2006:** Best First-Year Student, Statistics Section, University of Nairobi.
+-   **2003:** Ranked second-best KCSE student in Gucha District, Kenya.
 
 <hr>
 

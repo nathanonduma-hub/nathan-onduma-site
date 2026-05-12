@@ -6,9 +6,9 @@ listing: false
 
 ::: {.hero}
 
-## Data, evidence, and learning for stronger health systems
+## Evidence-informed decision making across complex programs and partnerships
 
-I work at the intersection of measurement, evaluation, data science, and global health. My focus is on building practical evidence systems that help governments, donors, and implementing partners make better decisions across complex health and development programs.
+I work at the intersection of measurement, evaluation, data science, and global health, helping organizations build practical evidence systems that support better decisions across complex programs and partnerships. My work focuses on translating data into actionable insights for governments, donors, and implementing partners, with experience leading multi-country learning, performance measurement, and evidence-generation initiatives across Africa.
 
 ::: {.hero-actions}
 [View CV](cv.qmd){.btn .btn-primary}
@@ -21,17 +21,17 @@ I work at the intersection of measurement, evaluation, data science, and global 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-4 .cardbox}
 ### MEL leadership
-Multi-country MEL systems, indicator frameworks, partner performance tracking, and donor reporting.
+Multi-country evidence, learning, and performance systems supporting adaptive management, partner performance oversight, and strategic decision-making across health and development programs.
 :::
 
 ::: {.g-col-12 .g-col-md-4 .cardbox}
 ### Data science
-Statistical analyses, R, tidyverse, Power BI, survey analysis, modelling, and data visualization.
+Quantitative and qualitative analysis and applied data science supporting evidence generation, implementation learning, and strategic decision-making across development programs using statistical modelling, survey analytics, R, and Power BI.
 :::
 
 ::: {.g-col-12 .g-col-md-4 .cardbox}
-### Global health systems
-NTDs, HIV, RMNCAH, DHIS2, EMR systems, Kobo Toolbox, digital transformation, and evidence use.
+### Systems Strengthening
+Global health systems strengthening through evidence use, digital transformation, and implementation data systems across NTD, HIV, and RMNCAH programs using DHIS2, EMR systems, KoboToolbox, and ODK.
 :::
 :::
 
@@ -40,14 +40,14 @@ NTDs, HIV, RMNCAH, DHIS2, EMR systems, Kobo Toolbox, digital transformation, and
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-6 .project-card}
 ### Neglected tropical diseases and MEL systems
-Current work focuses on MEL strategy, analytics, and evidence generation for neglected tropical disease programs, including visceral leishmaniasis and trachoma.
+Current work focuses on MEL strategy, evidence generation, implementation learning, and performance analytics for neglected tropical disease programs, including visceral leishmaniasis and trachoma.
 
 [Read the CV](cv.qmd#professional-experience)
 :::
 
 ::: {.g-col-12 .g-col-md-6 .project-card}
 ### Statistical and data science notes
-RPubs hosts some of the earlier technical notes on mixed effects models, experimental design, survey analysis, statistical inference, and tidymodels. More will be uploaded on a rolling basis.
+RPubs hosts some of the earlier technical notes on mixed effects models, experimental design, survey analysis, statistical inference, and tidymodels. More will be uploaded to github on a rolling basis.
 
 [View projects](projects.qmd)
 :::

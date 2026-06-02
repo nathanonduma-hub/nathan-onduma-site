@@ -89,7 +89,7 @@ Senior Monitoring, Evaluation, and Learning (MEL) and applied data science leade
 -   Evidence Systems, Adaptive Learning, and Decision Support
 -   Quantitative & Qualitative Analysis and Applied Data Science
 -   Program Design, Evaluation Frameworks, and Implementation Learning
--   Global Health Information Systems (DHIS2, EMR, KoboToolbox, ODK)
+-   Global Health Information Systems (HMIS, DHIS2, EMR, LMIS, eCHIS, KoboToolbox, ODK)
 -   Performance Measurement, Analytics, and Organizational Learning
 -   Multi-country Program Performance and Partner Engagement
 -   Stakeholder Engagement and Capacity Strengthening

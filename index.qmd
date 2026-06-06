@@ -8,7 +8,7 @@ listing: false
 
 ## Evidence-informed decision making across complex programs and partnerships
 
-I work at the intersection of measurement, evaluation, data science, and global health, helping organizations build practical evidence systems that support better decisions across complex programs and partnerships. My work focuses on translating data into actionable insights for governments, donors, and implementing partners, with experience leading multi-country learning, performance measurement, and evidence-generation initiatives across Africa.
+I work at the intersection of health information systems, statistics, measurement, evaluation, data science, and global health, helping organizations build practical evidence systems that support better decisions across complex programs and partnerships. My work focuses on translating data into actionable insights for governments, donors, and implementing partners, with experience leading multi-country learning, performance measurement, and evidence-generation initiatives across Africa.
 
 ::: {.hero-actions}
 [View CV](cv.qmd){.btn .btn-primary}

@@ -61,7 +61,7 @@ library(glue)
 
 # Nathan Machuki Onduma
 
-**Senior MEL and Data Science Leader**\
+**Senior MEAL, Health Information Systems and Data Science Leader**\
 Kisii, Kenya \| +254 728 352 614 \| nonduma\@yahoo.com\
 LinkedIn: [linkedin.com/in/nathan-onduma-7a80a0107](https://www.linkedin.com/in/nathan-onduma-7a80a0107/)
 
@@ -79,7 +79,7 @@ Online version: [View my live CV and portfolio](https://nathanonduma-hub.github.
 
 ## Professional Summary
 
-Senior Monitoring, Evaluation, and Learning (MEL) and applied data science leader with 15+ years of experience across global health and development programs in Africa and international settings. Proven track record leading multi-country evidence, learning, and performance systems that support strategic decision-making and program improvement. Expertise in statistical analysis, program evaluation, implementation learning, and translating complex data into actionable insights for governments, donors, and implementing partners. Experienced in strengthening health information systems, managing large-scale programs and partnerships, and supporting evidence-informed strategy.
+Senior MEAL, Statistics, and Health Information Systems leader with 15+ years of experience leading multi-country measurement, learning, and data systems initiatives across Africa. Proven expertise in performance measurement, statistical analysis, health information systems strengthening, data quality improvement, and translating complex evidence into strategic decisions for governments, donors, and implementing partners.
 
 <hr>
 
@@ -106,9 +106,9 @@ Senior Monitoring, Evaluation, and Learning (MEL) and applied data science leade
 
 -   Design and lead MEL strategy and implementation for six NTD programs within multi‑country initiatives spanning 30+ countries, supporting over $50M in disbursements and reaching 150M+ individuals annually.
 -   Oversee development of MEL frameworks, indicators, and data systems to strengthen program performance and impact measurement.
--   Provide technical leadership in survey design, data analytics, and digital transformation initiatives.
+-   Lead the design and strengthening of country-owned measurement and health information systems across 30+ countries, establishing standardized indicators, reporting architectures, and data governance approaches that improve decision-making, accountability, and long-term sustainability.
 -   Support organizational strategy through advanced data analysis and evidence generation for donor and board reporting.
--   Deliver technical assistance to Ministries of Health and implementing partners on data demand and use for decision‑making, automated reporting, DHIS2 workflows, and surveillance analytics.
+-   Provide strategic technical assistance to Ministries of Health to strengthen routine health information systems, improve DHIS2 data quality and utilization, and institutionalize evidence-informed decision-making processes.
 -   Provide data‑driven technical support for fund development, including guidance during the proposal development stage.
 
 ### [The END Fund](https://endfund.org/)
@@ -149,7 +149,7 @@ Senior Monitoring, Evaluation, and Learning (MEL) and applied data science leade
 -   Led MEL strategy and implementation for a USG PEPFAR/CDC-funded HIV program.
 -   Directed data systems including DATIM, DHIS2, and EMR platforms to ensure accurate and timely reporting.
 -   Managed a multidisciplinary team of MEL and data professionals.
--   Provided technical assistance to county health systems to strengthen data collection, analysis, and reporting.
+-   Delivered technical assistance to county health systems, enhancing data collection, analysis, and reporting of key performance indicators (KPIs).
 -   Led baseline assessments, data quality assessments, routine reporting, and stakeholder review meetings.
 
 **Selected Achievements**
@@ -157,6 +157,7 @@ Senior Monitoring, Evaluation, and Learning (MEL) and applied data science leade
 -   Increased EMR system coverage from below 20% to over 70%.
 -   Owned the development and deployment of the DHIS2-based Data Reporting and Warehousing System (DRAWS) with [BAO systems](https://baosystems.com/), the technical contractor.
 -   Part of the technical working group for the development and deployment of CDC Kenya’s Partner Platform for Performance Monitoring (3PM).
+-   Led the seamless interoperability of multiple information management systems—including KenyaEMR, Laboratory Information Management System (LIMS), Logistics Management Information System (LMIS), KHIS, and the National Data Warehouse—to ensure high-quality data across platforms for informed decision-making.
 -   Designed and implemented a comprehensive Evaluation and Performance Monitoring Plan.
 -   Secured continued donor funding through high-quality reporting and performance tracking.
 -   Supervised 2 data managers, 7 M&E officers, and 1 HMIS specialist.

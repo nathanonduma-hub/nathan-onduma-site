@@ -85,7 +85,7 @@ Senior Measurement, Evaluation, Accountability and Learning (MEAL), Statistics, 
 
 ## Core Competencies
 
--   Strategic Measurement, Evaluation, and Learning (MEL)
+-   Strategic Measurement, Evaluation, Accountability and Learning (MEAL)
 -   Strategic Learning, Evidence Use, Adaptive Management, and Decision Support
 -   Quantitative & Qualitative Analysis and Applied Data Science
 -   Program Design, Evaluation Frameworks, and Implementation Learning

@@ -86,15 +86,14 @@ Senior Measurement, Evaluation, Accountability and Learning (MEAL), Statistics, 
 ## Core Competencies
 
 -   Strategic Measurement, Evaluation, and Learning (MEL)
--   Evidence Systems, Adaptive Learning, and Decision Support
+-   Strategic Learning, Evidence Use, Adaptive Management, and Decision Support
 -   Quantitative & Qualitative Analysis and Applied Data Science
 -   Program Design, Evaluation Frameworks, and Implementation Learning
 -   Global Health Information Systems (HMIS, DHIS2, EMR, LMIS, eCHIS, KoboToolbox, ODK)
 -   Performance Measurement, Analytics, and Organizational Learning
--   Strategic Learning, Evidence Use, and Adaptive Management
 -   Multi-country Program Performance and Partner Engagement
 -   Stakeholder Engagement and Capacity Strengthening
--   Strategic Donor Reporting (USAID, CDC, World Bank, Foundations, and Funds)
+-   Strategic Donor Reporting (USAID, CDC, World Bank, Foundations, and Philanthropic Funds)
 -   Research, Evidence Generation, and Scientific Communication
 
 
@@ -112,7 +111,7 @@ Senior Measurement, Evaluation, Accountability and Learning (MEAL), Statistics, 
 -   Provide strategic technical assistance to Ministries of Health to strengthen routine health information systems, improve DHIS2 data quality and utilization, and institutionalize evidence-informed decision-making processes.
 -   Provide data‑driven technical support for fund development, including guidance during the proposal development stage.
 -   Co-lead the development and refinement of the organization's Theory of Change, strengthening organizational learning, adaptive management, and evidence-informed decision-making.
--   Facilitate cross-country learning and synthesis of implementation evidence to identify programmatic insights, strengthen adaptive management, and support strategic decision-making.
+-   Facilitate cross-country learning and synthesize implementation evidence to generate actionable insights that strengthen adaptive management and inform strategic decision-making.
 
 ### [The END Fund](https://endfund.org/)
 

@@ -61,7 +61,7 @@ library(glue)
 
 # Nathan Machuki Onduma
 
-**Senior MEAL, Health Information Systems and Data Science Leader**\
+**Senior MEAL, Statistics, Health Information Systems and Data Science Leader**\
 Kisii, Kenya \| +254 728 352 614 \| nonduma\@yahoo.com\
 LinkedIn: [linkedin.com/in/nathan-onduma-7a80a0107](https://www.linkedin.com/in/nathan-onduma-7a80a0107/)
 
@@ -79,7 +79,7 @@ Online version: [View my live CV and portfolio](https://nathanonduma-hub.github.
 
 ## Professional Summary
 
-Senior Measurement, Evaluation, Accountability and Learning (MEAL), Statistics, and Data Systems leader with 15+ years of experience leading multi-country measurement, evaluation, learning, and evidence-generation initiatives across Africa. Proven expertise in performance measurement, statistical analysis, data systems strengthening, organizational learning, and translating complex evidence into strategic decisions for governments, donors, and implementing partners.
+Senior Measurement, Evaluation, Accountability and Learning (MEAL), Statistics, and Data Systems leader with 15+ years of experience leading multi-country measurement, evaluation, learning, evidence-generation, impact assessment, and adaptive management initiatives across Africa. Proven expertise in performance measurement, statistical analysis, data systems strengthening, organizational learning, and translating complex evidence into strategic decisions for governments, donors, and implementing partners.
 
 <hr>
 
@@ -132,7 +132,8 @@ Senior Measurement, Evaluation, Accountability and Learning (MEAL), Statistics, 
 -   Delivered high-impact analytics supporting localization strategy and cross-departmental decision-making.
 -   Contributed to development of organizational Theory of Change aligned with strategic priorities.
 -   Led segments of the DHIS2-based program database development in collaboration with [BAO systems](https://baosystems.com/), the technical contractor.
--   Facilitated cross-country learning, synthesized implementation evidence and identified programmatic insights which strengthened adaptive management, and supported strategic decision-making across several programs and countries.
+-   Facilitated cross-country learning, synthesized implementation evidence, and generated programmatic insights that strengthened adaptive management and informed strategic policy, program, and investment decisions across multiple countries.
+-   Produced evidence briefs, learning products, technical reports and presentations used by donors, ministries of health and program leadership to guide strategic decisions.
 
 ### [Independent Consultant](https://www.linkedin.com/in/nathan-onduma-7a80a0107/)
 
@@ -140,7 +141,7 @@ Senior Measurement, Evaluation, Accountability and Learning (MEAL), Statistics, 
 *October 2020 – October 2022*
 
 -   Delivered statistical and MEL consulting services for global health and development programs funded by USAID, World Bank, and other donors and partners.
--   Designed and implemented data analysis frameworks and evaluation methodologies.
+-   Led the design and implementation of baseline, midline, endline and special studies using mixed-methods approaches, including quarterly quantitative surveys, routine program data analysis, qualitative assessments and implementation research.
 -   Translated complex analytical outputs into clear, actionable insights for technical and non-technical stakeholders.
 -   Provided advisory support on monitoring, measurement, evaluation, research, and learning for public, private, and non-profit organizations.
 -   Provided technical leadership on planning and conducting a [Harmonized Health Facility Assessment (HHFA)](https://www.who.int/data/data-collection-tools/harmonized-health-facility-assessment/introduction) and third party monitoring
@@ -171,7 +172,7 @@ Senior Measurement, Evaluation, Accountability and Learning (MEAL), Statistics, 
 **Monitoring and Evaluation Officer**\
 *April 2016 – January 2017 \| Kisumu, Kenya*
 
--   Developed and managed monitoring and evaluation systems for donor-funded RMNCAH (Reproductive, Maternal, Newborn, Child, and Adolescent Health) programs.
+-   Developed and managed monitoring and evaluation systems for donor-funded Reproductive, Maternal, Newborn, Child, and Adolescent Health (RMNCAH) programs.
 -   Developed indicators, data collection tools, reporting matrices, and institutional data systems.
 -   Led training and capacity building for program staff, service delivery staff, and partners.
 -   Supported proposal development, grant reporting, data quality audits, and research dissemination.

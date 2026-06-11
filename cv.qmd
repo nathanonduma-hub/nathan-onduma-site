@@ -79,7 +79,7 @@ Online version: [View my live CV and portfolio](https://nathanonduma-hub.github.
 
 ## Professional Summary
 
-Senior MEAL, Statistics, and Data Systems leader with 15+ years of experience leading multi-country measurement, evaluation, learning, and evidence-generation initiatives across Africa. Proven expertise in performance measurement, statistical analysis, data systems strengthening, organizational learning, and translating complex evidence into strategic decisions for governments, donors, and implementing partners.
+Senior Measurement, Evaluation, Accountability and Learning (MEAL), Statistics, and Data Systems leader with 15+ years of experience leading multi-country measurement, evaluation, learning, and evidence-generation initiatives across Africa. Proven expertise in performance measurement, statistical analysis, data systems strengthening, organizational learning, and translating complex evidence into strategic decisions for governments, donors, and implementing partners.
 
 <hr>
 
@@ -91,6 +91,7 @@ Senior MEAL, Statistics, and Data Systems leader with 15+ years of experience le
 -   Program Design, Evaluation Frameworks, and Implementation Learning
 -   Global Health Information Systems (HMIS, DHIS2, EMR, LMIS, eCHIS, KoboToolbox, ODK)
 -   Performance Measurement, Analytics, and Organizational Learning
+-   Strategic Learning, Evidence Use, and Adaptive Management
 -   Multi-country Program Performance and Partner Engagement
 -   Stakeholder Engagement and Capacity Strengthening
 -   Strategic Donor Reporting (USAID, CDC, World Bank, Foundations, and Funds)
@@ -107,9 +108,11 @@ Senior MEAL, Statistics, and Data Systems leader with 15+ years of experience le
 -   Design and lead MEL strategy and implementation for six NTD programs within multi‑country initiatives spanning 30+ countries, supporting over $50M in disbursements and reaching 150M+ individuals annually.
 -   Oversee development of MEL frameworks, indicators, and data systems to strengthen program performance and impact measurement.
 -   Lead the design and strengthening of country-owned measurement and health information systems across 30+ countries, establishing standardized indicators, reporting architectures, and data governance approaches that improve decision-making, accountability, and long-term sustainability.
--   Support organizational strategy through advanced data analysis and evidence generation for donor and board reporting.
+-   Support organizational strategy through evidence generation, analytics, and synthesis of findings to inform donor engagement, investment decisions, and program improvement.
 -   Provide strategic technical assistance to Ministries of Health to strengthen routine health information systems, improve DHIS2 data quality and utilization, and institutionalize evidence-informed decision-making processes.
 -   Provide data‑driven technical support for fund development, including guidance during the proposal development stage.
+-   Co-lead the development and refinement of the organization's Theory of Change, strengthening organizational learning, adaptive management, and evidence-informed decision-making.
+-   Facilitate cross-country learning and synthesis of implementation evidence to identify programmatic insights, strengthen adaptive management, and support strategic decision-making.
 
 ### [The END Fund](https://endfund.org/)
 
@@ -129,6 +132,7 @@ Senior MEAL, Statistics, and Data Systems leader with 15+ years of experience le
 -   Delivered high-impact analytics supporting localization strategy and cross-departmental decision-making.
 -   Contributed to development of organizational Theory of Change aligned with strategic priorities.
 -   Led segments of the DHIS2-based program database development in collaboration with [BAO systems](https://baosystems.com/), the technical contractor.
+-   Facilitated cross-country learning, synthesized implementation evidence and identified programmatic insights which strengthened adaptive management, and supported strategic decision-making across several programs and countries.
 
 ### [Independent Consultant](https://www.linkedin.com/in/nathan-onduma-7a80a0107/)
 

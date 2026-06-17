@@ -1,26 +1,36 @@
 ---
-#title: "Nathan Machuki Onduma"
-#subtitle: "Senior Impact, Evidence & Learning Leader"
+title: "Nathan Machuki Onduma"
+subtitle: "Senior Impact, Evidence & Learning Leader"
+description: "I help organizations strengthen performance, generate actionable evidence, and use data to improve decisions and increase impact across global health and development programs."
 listing: false
 toc: true
 ---
+**15+ years** | **Multi-country programs** | **Statistics & Data Science** | **MEAL** | **Organizational Performance**
 
 ::: {.hero}
-## Nathan Machuki Onduma
-### Senior Impact, Evidence & Learning Leader
-I help organizations strengthen performance, generate actionable evidence, and use data to improve decisions and increase impact across global health and development programs.
-**15+ years** | **Multi-country programs** | **Statistics & Data Science** | **MEAL** | **Organizational Performance**
 
 I work at the intersection of measurement, evaluation, learning, statistics, data science, and organizational performance, helping organizations build practical evidence systems that support better decisions across complex programs and partnerships. My experience spans multi-country initiatives across Africa, translating data into actionable insights for governments, donors, and implementing partners.
 
-## Selected Leadership Highlights
+::: {.hero-actions}
+[View CV](cv.qmd){.btn .btn-primary}
+[Explore projects](projects.qmd){.btn .btn-secondary}
+[RPubs portfolio](https://rpubs.com/Onduma){.btn .btn-outline-secondary}
+:::
+:::
+
+## Leadership and Areas of Focus
+::: {.grid}
+::: {.g-col-12 .g-col-md-6 .project-card}
+### Selected Leadership Highlights
 -   Led evidence and analytics initiatives supporting programs reaching 150M+ people annually.
 -   Directed multi-country measurement, evaluation, learning, and performance functions across Africa.
 -   Supported organizational strategy through evidence generation, forecasting, and decision-support analytics.
 -   Strengthened data governance, quality assurance, and accountability systems across complex portfolios.
 -   Built capacity for data use, learning, and adaptive management among technical and program teams.
+:::
 
-## Current Areas of Focus
+::: {.g-col-12 .g-col-md-6 .project-card}
+### Current Areas of Focus
 -   Impact Measurement & Organizational Performance
 -   Evidence Generation & Learning Systems
 -   Adaptive Management
@@ -28,14 +38,7 @@ I work at the intersection of measurement, evaluation, learning, statistics, dat
 -   Strategic Analytics
 -   AI for Development and Public Health
 -   Decision Intelligence for Social Impact
-
-
-::: {.hero-actions}
-[View CV](cv.qmd){.btn .btn-primary}
-[Explore projects](projects.qmd){.btn .btn-secondary}
-[RPubs portfolio](https://rpubs.com/Onduma){.btn .btn-outline-secondary}
-:::
-
+::: 
 :::
 
 ::: {.grid}
@@ -60,14 +63,14 @@ Global health systems strengthening through evidence use, digital transformation
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-6 .project-card}
 ### Neglected tropical diseases and MEL systems
-Current work focuses on MEL strategy, evidence generation, implementation learning, and performance analytics for neglected tropical disease programs, including visceral leishmaniasis and trachoma.
+This work focuses on MEL strategy, evidence generation, implementation learning, and performance analytics for neglected tropical disease programs, including intestinal worms, schistosomiasis, lympatic filariasis, river blindness, trachoma and visceral leishmaniasis.
 
 [Read the CV](cv.qmd#professional-experience)
 :::
 
 ::: {.g-col-12 .g-col-md-6 .project-card}
-### Statistical and data science notes
-RPubs hosts some of the earlier technical notes on mixed effects models, experimental design, survey analysis, statistical inference, and tidymodels. More will be uploaded to github on a rolling basis.
+### Projects, Case Studies and Aanlytics
+A portfolio of selected digital transformation examples and analytical works.More will be uploaded to github on a rolling basis.
 
 [View projects](projects.qmd)
 :::

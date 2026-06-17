@@ -2,7 +2,7 @@
 title: "Nathan Machuki Onduma"
 subtitle: "Senior Impact, Evidence & Learning Leader"
 listing: false
-toc: false
+toc: true
 ---
 
 I help organizations strengthen performance, generate actionable evidence, and use data to improve decisions and increase impact across global health and development programs.
@@ -11,16 +11,15 @@ I help organizations strengthen performance, generate actionable evidence, and u
 
 ::: {.hero}
 
-## Evidence-informed decision making across complex programs and partnerships
+I work at the intersection of measurement, evaluation, learning, statistics, data science, and organizational performance, helping organizations build practical evidence systems that support better decisions across complex programs and partnerships. My experience spans multi-country initiatives across Africa, translating data into actionable insights for governments, donors, and implementing partners.
 
-I work at the intersection of health information systems, statistics, measurement, evaluation, data science, and global health, helping organizations build practical evidence systems that support better decisions across complex programs and partnerships. My work focuses on translating data into actionable insights for governments, donors, and implementing partners, with experience leading multi-country learning, performance measurement, and evidence-generation initiatives across Africa.
 
 ## Selected Leadership Highlights
-Led evidence and analytics initiatives supporting programs reaching 150M+ people annually.
-Directed multi-country measurement, evaluation, learning, and performance functions across Africa.
-Supported organizational strategy through evidence generation, forecasting, and decision-support analytics.
-Strengthened data governance, quality assurance, and accountability systems across complex portfolios.
-Built capacity for data use, learning, and adaptive management among technical and program teams.
+-   Led evidence and analytics initiatives supporting programs reaching 150M+ people annually.
+-   Directed multi-country measurement, evaluation, learning, and performance functions across Africa.
+-   Supported organizational strategy through evidence generation, forecasting, and decision-support analytics.
+-   Strengthened data governance, quality assurance, and accountability systems across complex portfolios.
+-   Built capacity for data use, learning, and adaptive management among technical and program teams.
 
 ## Current Areas of Focus
 -   Impact Measurement & Organizational Performance

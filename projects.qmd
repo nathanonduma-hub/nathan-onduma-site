@@ -1,17 +1,127 @@
 ---
-title: "Projects and Technical Portfolio - [Portfolio building is work in progress]"
-description: "Selected analytical work, RPubs publications, and future case-study space."
+title: "Projects, Case Studies & Analytics Portfolio"
+description: "Selected examples of digital transformation, evidence generation, organizational learning, and analytical work across global health and development programs."
 ---
 
 <!-- This page turns the existing RPubs presence into a clearer portfolio. RPubs are kept as the archive while this site is used as the curated front door. -->
 
-## Learning - Case Studies
+## 1. Strategic & Program Leadership Case Studies
 
+Selected examples of how evidence, analytics, and digital systems have been used to strengthen program implementation, organizational learning, and decision-making across global health and development programs.
+    - Nigeria Digital Monitoring Systems
+    - Localization analytics for Organizational Learning
+    - DRC Context
+    - Kenya HIV digitization    - 
+    - (future) Forecasting & decision support
+    
 ::: {.grid}
+::: {.g-col-12 .g-col-md-12 .project-card}
+
+### Building Sustainable Government-Owned Digital Monitoring Systems for NTD Programs in Nigeria
+
+#### Challenge
+
+Mass Drug Administration (MDA) and Morbidity Management and Disability Prevention (MMDP) programs relied heavily on paper-based reporting and donor-supported digital tools. While an initial pilot using CommCare demonstrated the value of digitization, concerns remained around long-term sustainability, government ownership, integration with national systems, and ongoing operational costs.
+
+#### Approach
+
+Working closely with the Ministry of Health, program partners and colleagues, I supported the transition from a standalone CommCare implementation to a DHIS2-based platform aligned with the national health information system architecture.
+
+The initiative focused on strengthening government ownership, reducing dependence on parallel donor-supported systems, integrating community-level monitoring into existing national reporting structures, and enabling near real-time visibility of implementation performance.
+
+#### Impact
+
+- Strengthened government ownership and sustainability of digital monitoring systems.
+- Improved reporting timeliness and data availability during implementation.
+- Enhanced data quality through standardized reporting and validation processes.
+- Reduced reliance on parallel systems and external infrastructure.
+- Increased visibility of community-level program performance through near real-time dashboards.
+
+#### Decision Supported
+
+Supported the transition of community-based NTD monitoring toward a more sustainable and scalable monitoring architecture aligned with existing national health information systems.
+
+**Tools:** DHIS2 | R | Data Quality Audits | Dashboarding
+:::
+
+::: {.g-col-12 .g-col-md-12 .project-card}
+
+### Localization Analytics and Decision Support for Organizational Learning
+
+#### Challenge
+
+As development organizations increasingly invest in localization, leadership requires reliable evidence to understand how funding patterns, implementation performance, and institutional capacity evolve over time. However, programmatic and financial data are often dispersed across multiple systems, making it difficult to monitor progress and inform strategic decisions.
+
+#### Approach
+
+I designed and operationalized a routine analytics workflow that integrated program implementation and financial data to support organizational learning and localization monitoring.
+
+The framework integrated financial, operational, and programmatic data from multiple countries to support organizational learning and strategic decision-making.
+
+To improve accessibility and use, analytical outputs were automated and shared through user-friendly reporting products that supported both technical teams and senior decision-makers.
+
+#### Insights Generated
+
+- Trends in program implementation and resource utilization.
+- Relationships between operational investments and program outcomes.
+- Geographic variation in implementation performance.
+- Evidence supporting organizational learning and sustainability discussions.
+- Routine performance monitoring to support strategic planning.
+
+#### Impact
+
+- Strengthened routine use of data for strategic planning and organizational learning.
+- Improved visibility of localization-related performance trends.
+- Enabled evidence-informed discussions among leadership teams.
+- Reduced manual reporting effort through reproducible analytical workflows.
+- Increased access to timely performance information across departments.
+
+#### Decision Supported
+
+Supported organizational leadership in monitoring localization progress, assessing implementation trends, and strengthening evidence-informed decision-making.
+
+**Tools:** R | Tidyverse | Quarto | Salesforce | Google Sheets | Statistical Analysis | Data Visualization
+
+:::
+
+::: {.g-col-12 .g-col-md-12 .project-card}
+
+### Designing Context-Appropriate Digital Monitoring Solutions for NTD Programs in the Democratic Republic of Congo
+
+#### Challenge
+
+NTD programs in the Democratic Republic of Congo operate across highly remote and logistically complex environments where connectivity constraints, infrastructure limitations, and diverse implementation contexts create significant challenges for digital monitoring and reporting.
+
+#### Approach
+
+Working with government stakeholders, colleagues and a technical partner, I supported a comprehensive digital landscape assessment to understand monitoring workflows, technology readiness, reporting bottlenecks, and operational realities across multiple implementation settings.
+
+The assessment informed the design of a tailored digital transformation strategy that balanced standardization with the flexibility required in different operating environments.
+
+#### Key Insights
+
+The assessment identified substantial variation in digital readiness, reporting practices, infrastructure capacity, and monitoring requirements across implementation areas. Findings highlighted the need for context-driven digital solutions rather than a one-size-fits-all technology approach.
+
+#### Impact
+
+- Identified critical gaps in monitoring architecture and reporting systems.
+- Strengthened understanding of infrastructure and capacity requirements.
+- Informed the design of a tailored digital monitoring strategy.
+- Improved alignment between program needs and digital solutions.
+- Supported future investment decisions in digital health and monitoring systems.
+
+#### Decision Supported
+
+Enabled stakeholders to move from technology-led digitization toward evidence-based digital transformation grounded in implementation realities.
+
+**Tools:** Digital Landscape Assessment | DHIS2 | Stakeholder Analysis | Systems Design
+
+:::
+
 ::: {.g-col-12 .g-col-md-12 .project-card}
 ### Evidence Beyond Digitization: Lessons from Scaling HIV Information Systems in Rural Kenya 
 
-During my work supporting a USG PEPFAR/CDC-funded HIV program in Kenya, I critically assessed evidence surrounding the digitization of HIV service delivery and reporting systems intended to improve data quality, program monitoring, and decision-making. The initiative transitioned more than 200 health facilities in 2 low resourced rural Counties from fragmented paper-based systems to a DHIS2-based platform and centralized data reporting and warehousing system.
+During my work supporting a USG PEPFAR/CDC-funded HIV program in Kenya, I critically assessed evidence surrounding the digitization of HIV service delivery and reporting systems intended to improve data quality, program monitoring, and decision-making. The initiative transitioned a large network of health facilities across rural Kenya from fragmented paper-based systems to a DHIS2-based platform and centralized data reporting and warehousing system.
 
 Initial evidence suggested digitization would improve reporting accuracy, timeliness, and overall program performance. However, I identified important limitations in the evidence base. Much of the literature demonstrated improvements in reporting completeness and data availability, but there was limited rigorous evidence directly linking digitization to sustained patient outcomes such as retention in care or viral suppression. In addition, many successful digital health implementations described in the literature were conducted in settings with stronger infrastructure and technical capacity than the rural facilities where we operated.
 
@@ -21,7 +131,7 @@ The experience showed me that digital transformation alone is insufficient for h
 :::
 ::: 
 
-## RPubs portfolio
+## 2. Selected Analytics & Statistical Work
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-6 .project-card}

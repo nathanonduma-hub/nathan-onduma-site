@@ -61,7 +61,7 @@ library(glue)
 
 # Nathan Machuki Onduma
 
-**Senior MEAL, Statistics, Health Information Systems and Data Science Leader**\
+**Senior Impact, Evidence & Learning Leader | MEAL | Organizational Performance | Statistics & Data Science**\
 Kisii, Kenya \| +254 728 352 614 \| nonduma\@yahoo.com\
 LinkedIn: [linkedin.com/in/nathan-onduma-7a80a0107](https://www.linkedin.com/in/nathan-onduma-7a80a0107/)
 
@@ -79,23 +79,32 @@ Online version: [View my live CV and portfolio](https://nathanonduma-hub.github.
 
 ## Professional Summary
 
-Senior Measurement, Evaluation, Accountability and Learning (MEAL), Statistics, and Data Systems leader with 15+ years of experience leading multi-country measurement, evaluation, learning, evidence-generation, impact assessment, and adaptive management initiatives across Africa. Proven expertise in performance measurement, statistical analysis, data systems strengthening, organizational learning, and translating complex evidence into strategic decisions for governments, donors, and implementing partners.
+Senior impact, evidence, learning and analytics leader with 15+ years of experience strengthening organizational performance, evaluation systems, and evidence-informed decision-making across Africa. Experienced leading multi-country MEL and analytics functions, developing measurement frameworks, supporting Theory of Change processes, generating strategic insights for senior leadership, board and donors, and building data systems that improve program effectiveness at scale. Combines strong statistical and data science expertise with practical experience translating evidence into action.
 
 <hr>
 
+## Selected Strategic Contributions
+
+-   Led MEL, evidence generation and performance measurement initiatives across programs reaching more than 150 million people annually.
+-   Supported organizational Theory of Change development and results framework design.
+-   Generated evidence and analytics informing strategic planning, investment cases, localization initiatives and organizational decision-making.
+-   Strengthened data governance, reporting architectures and accountability systems across multi-country portfolios.
+-   Produced evidence products for donors, executive leadership and board-level reporting.
+-   Built capacity for data use, learning and adaptive management across diverse teams and partners.
+
 ## Core Competencies
 
--   Strategic Measurement, Evaluation, Accountability and Learning (MEAL)
--   Strategic Learning, Evidence Use, Adaptive Management, and Decision Support
--   Quantitative & Qualitative Analysis and Applied Data Science
--   Program Design, Evaluation Frameworks, and Implementation Learning
--   Global Health Information Systems (HMIS, DHIS2, EMR, LMIS, eCHIS, KoboToolbox, ODK)
--   Performance Measurement, Analytics, and Organizational Learning
--   Multi-country Program Performance and Partner Engagement
--   Stakeholder Engagement and Capacity Strengthening
--   Strategic Donor Reporting (USAID, CDC, World Bank, Foundations, and Philanthropic Funds)
--   Research, Evidence Generation, and Scientific Communication
-
+-   Impact Measurement & Performance Management
+-   Monitoring, Evaluation, Accountability and Learning (MEAL)
+-   Organizational Learning & Adaptive Management
+-   Theory of Change & Results Frameworks
+-   Evaluation & Research Methods
+-   Evidence Generation & Decision Support
+-   Data Governance & Quality Assurance
+-   Applied Statistics & Data Science
+-   Stakeholder Engagement & Capacity Strengthening
+-   Multi-Country Program Leadership
+-   Strategic Donor Reporting & Accountability
 
 ## Professional Experience
 
@@ -107,7 +116,7 @@ Senior Measurement, Evaluation, Accountability and Learning (MEAL), Statistics, 
 -   Design and lead MEL strategy and implementation for six NTD programs within multi‑country initiatives spanning 30+ countries, supporting over $50M in disbursements and reaching 150M+ individuals annually.
 -   Oversee development of MEL frameworks, indicators, and data systems to strengthen program performance and impact measurement.
 -   Lead the design and strengthening of country-owned measurement and health information systems across 30+ countries, establishing standardized indicators, reporting architectures, and data governance approaches that improve decision-making, accountability, and long-term sustainability.
--   Support organizational strategy through evidence generation, analytics, and synthesis of findings to inform donor engagement, investment decisions, and program improvement.
+-   Generate strategic insights and evidence products that inform organizational planning, donor engagement, executive decision-making, and board oversight.
 -   Provide strategic technical assistance to Ministries of Health to strengthen routine health information systems, improve DHIS2 data quality and utilization, and institutionalize evidence-informed decision-making processes.
 -   Provide data‑driven technical support for fund development, including guidance during the proposal development stage.
 -   Co-lead the development and refinement of the organization's Theory of Change, strengthening organizational learning, adaptive management, and evidence-informed decision-making.
@@ -128,11 +137,12 @@ Senior Measurement, Evaluation, Accountability and Learning (MEAL), Statistics, 
 **Selected Achievements**
 
 -   Advanced multi-country data systems, including indicator frameworks, data tools, shapefiles, and training resources.
--   Delivered high-impact analytics supporting localization strategy and cross-departmental decision-making.
--   Contributed to development of organizational Theory of Change aligned with strategic priorities.
+-   Led analytical work that informed organizational localization strategy and strengthened evidence-based decision-making across departments.
+-   Supported development and refinement of the organizational Theory of Change, ensuring alignment between strategic priorities, performance measurement, and evidence use.
 -   Led segments of the DHIS2-based program database development in collaboration with [BAO systems](https://baosystems.com/), the technical contractor.
 -   Facilitated cross-country learning, synthesized implementation evidence, and generated programmatic insights that strengthened adaptive management and informed strategic policy, program, and investment decisions across multiple countries.
 -   Produced evidence briefs, learning products, technical reports and presentations used by donors, ministries of health and program leadership to guide strategic decisions.
+-   Promoted organizational learning and adaptive management through synthesis of monitoring, evaluation, and analytical findings into actionable recommendations.
 
 ### [Independent Consultant](https://www.linkedin.com/in/nathan-onduma-7a80a0107/)
 
@@ -173,6 +183,7 @@ Senior Measurement, Evaluation, Accountability and Learning (MEAL), Statistics, 
 
 -   Developed and managed monitoring and evaluation systems for donor-funded Reproductive, Maternal, Newborn, Child, and Adolescent Health (RMNCAH) programs.
 -   Developed indicators, data collection tools, reporting matrices, and institutional data systems.
+-   Led implementation and evaluation of KMET programs empowering adolescent girls and young women (AGYW) aged 10–24 years across Kenya, supporting the establishment of youth-friendly clinics in collaboration with county Departments of Health.
 -   Led training and capacity building for program staff, service delivery staff, and partners.
 -   Supported proposal development, grant reporting, data quality audits, and research dissemination.
 
@@ -187,9 +198,9 @@ Senior Measurement, Evaluation, Accountability and Learning (MEAL), Statistics, 
 **Economist/Statistician**\
 *September 2010 – April 2016 \| Kenya*
 
--   Led county-level statistical analysis, planning, monitoring, and reporting functions.
+-   Led county and district-level statistical analysis, planning, monitoring, and reporting functions.
 -   Developed program monitoring tools, performance indicators, and policy inputs.
--   Coordinated development, review, monitoring, and evaluation of District Development Plans and County Integrated Development Plans.
+-   Coordinated development, review, monitoring, and evaluation of District Development Plans and County Integrated Development Plans across key government thematic areas including education, gender mainstreaming among others.
 -   Supported budgeting, strategic planning, feasibility studies, and sector statistics dissemination.
 
 **Selected Achievements**
@@ -212,9 +223,9 @@ Senior Measurement, Evaluation, Accountability and Learning (MEAL), Statistics, 
 ## Technical Skills
 
 -   **Programming & Analysis:** R tidyverse ecosystem, Excel/Google Sheets, Power BI
--   **Health Systems:** DHIS2, EMR systems, Kobo Toolbox
+-   **Health information systems** (HMIS/DHIS2, EMR, LMIS, eCHIS) and **digital data collection tools** (KoboToolbox, ODK)
 -   **Enterprise Systems:** Salesforce
--   **Research & Reporting:** Survey design, statistical modelling, data visualization, LaTeX
+-   **Research & Reporting:** Survey design, statistical modelling, data visualization, [Quarto](https://quarto.org/)
 
 <hr>
 

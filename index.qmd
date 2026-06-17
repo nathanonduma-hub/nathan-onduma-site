@@ -1,18 +1,17 @@
 ---
-title: "Nathan Machuki Onduma"
-subtitle: "Senior Impact, Evidence & Learning Leader"
+#title: "Nathan Machuki Onduma"
+#subtitle: "Senior Impact, Evidence & Learning Leader"
 listing: false
 toc: true
 ---
 
+::: {.hero}
+## Nathan Machuki Onduma
+### Senior Impact, Evidence & Learning Leader
 I help organizations strengthen performance, generate actionable evidence, and use data to improve decisions and increase impact across global health and development programs.
-
 **15+ years** | **Multi-country programs** | **Statistics & Data Science** | **MEAL** | **Organizational Performance**
 
-::: {.hero}
-
 I work at the intersection of measurement, evaluation, learning, statistics, data science, and organizational performance, helping organizations build practical evidence systems that support better decisions across complex programs and partnerships. My experience spans multi-country initiatives across Africa, translating data into actionable insights for governments, donors, and implementing partners.
-
 
 ## Selected Leadership Highlights
 -   Led evidence and analytics initiatives supporting programs reaching 150M+ people annually.

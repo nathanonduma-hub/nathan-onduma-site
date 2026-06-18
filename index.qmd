@@ -18,7 +18,7 @@ I work at the intersection of measurement, evaluation, learning, statistics, dat
 :::
 :::
 
-## Leadership and Areas of Focus
+## Leadership and areas of focus
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-6 .project-card}
 ### Selected Leadership Highlights

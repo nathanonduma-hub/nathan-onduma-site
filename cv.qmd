@@ -66,7 +66,7 @@ Kisii, Kenya \| +254 728 352 614 \| nonduma\@yahoo.com\
 LinkedIn: [linkedin.com/in/nathan-onduma-7a80a0107](https://www.linkedin.com/in/nathan-onduma-7a80a0107/)
 
 ::: {.content-visible unless-format="html"}
-Online version: [View my live CV and portfolio](https://nathanonduma-hub.github.io/nathan-onduma-site/cv.html)
+Online version: [View my live CV and portfolio](https://nathanonduma-hub.github.io/nathan-onduma-site/)
 :::
 
 :::: {.content-visible when-format="html"}
